@@ -44,6 +44,10 @@ PingMe is not directed to children and is not intended for use by children.
 
 We may update this policy when features change. Material updates may also appear in the in-app privacy notice and require acceptance again.
 
+## Copyright
+
+© 2026 AS-Tech Studios. PingMe is a product and trademark of AS-Tech Studios. All rights reserved. Not affiliated with any unrelated “PingMe” apps or brands.
+
 ## Contact
 
 - Privacy: [flutterdev7861@gmail.com](mailto:flutterdev7861@gmail.com)
